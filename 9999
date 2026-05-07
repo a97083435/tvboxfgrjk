@@ -135,7 +135,46 @@
 			"order_num": 1,
 			"ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
 		},
-		{
+		 {
+            "key": "瓜子js",
+            "name": "👌瓜子|影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "./瓜子.js"
+        },
+        {
+            "key": "柠檬",
+            "name": "👌柠檬|影视",
+            "type": 3,
+            "api": "csp_Nmvod",
+            "playerType": 2,
+            "jar": "./柠檬.jar",
+            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+        },
+		  {
+            "name": "👌橘汁|影视",
+            "key": "Juzhi",
+            "type": 3,
+            "jar": "./Juzhi_spider.jar",
+            "api": "csp_Juzhi",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+              "host": "",
+              "site": "./az5.txt",
+              "version": "3.0.1.9"
+            }
+        },
+        {
+            "key": "csp_SaoHuo",
+            "name": "👌骚火|影视",
+            "type": 3,
+            "jar": "./骚火🔥.jar",
+            "api": "csp_SaoHuo"
+        },
+        {
 			"key": "hipy_js_01看球[球]",
 			"name": "01看球[球](drpy_t3)",
 			"type": 3,
