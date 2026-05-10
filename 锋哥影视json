@@ -395,11 +395,6 @@
                 }
             }
         },
-          {
-            "name": "春天",
-            "type": 0,
-            "url": "https://jx.2s0.cn/player/?url="
-          },
       {
       "name": "极速",
       "type": 0,
@@ -410,16 +405,6 @@
     }
   }
 },
-    {
-        "name": "大厂",
-        "type": 0,
-        "url": "https://t2.qlplayer.cyou/player/analysis.php?v=",
-        "ext": {
-        "header": {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
 {"name":"云解析",
         "type":0,
         "url":"https://yparse.ik9.cc/index.php?url=",
@@ -432,122 +417,6 @@
 			"name": "公益影视┃公益解析",
 			"type": "1",
 			"url": "https://rizzon.in/wp-content/json.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-        {
-			"name": "公益影视┃疼疼解析",
-			"type": "1",
-			"url": "https://h5.freejson.xyz/player/?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "公益影视┃臻享",
-			"type": "1",
-			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "公益影视┃优选",
-			"type": 1,
-			"url": "http://1.94.221.189:88/algorithm.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "公益影视┃至臻",
-			"type": 1,
-			"url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
 			"ext": {
 				"flag": [
 					"qq",
