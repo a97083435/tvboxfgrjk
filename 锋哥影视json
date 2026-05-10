@@ -313,14 +313,6 @@
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
     {
-      "key": "💞探探资源💞",
-      "name": "🐙探探资源｜🔞",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "*AIvin",
       "name": "🐙AIvin｜🔞",
       "type": 0,
@@ -333,15 +325,6 @@
       "api": "https://kkzy.me/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "(18+)JAV名优",
-      "name": "🐙JAV名优｜🔞",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0
     },
          {
